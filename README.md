@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## NOTES
+
+Recuerden entrar al pubspec.yaml y ejecutar flutter pub get
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
