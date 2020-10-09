@@ -1,4 +1,10 @@
+import 'package:capacitacionflutter/animated_container_example.dart';
+import 'package:capacitacionflutter/expanded_example.dart';
 import 'package:capacitacionflutter/home_page.dart';
+import 'package:capacitacionflutter/page_view_example.dart';
+import 'package:capacitacionflutter/reels_home.dart';
+import 'package:capacitacionflutter/sliver_example.dart';
+import 'package:capacitacionflutter/wrap_example.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,7 +23,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.blue,
         visualDensity: VisualDensity.adaptivePlatformDensity,
       ),
-      home: HomePage(),
+      home: ReelsHome(),
     );
   }
 }
